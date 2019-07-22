@@ -1,0 +1,51 @@
+C:\Users\richard.cole\Documents\Visual Studio 2013\Projects\FileSearch\FileSearch\bin\Debug\FileSearch.exe.config
+C:\Users\richard.cole\Documents\Visual Studio 2013\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.exe
+C:\Users\richard.cole\Documents\Visual Studio 2013\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.pdb
+C:\Users\richard.cole\Documents\Visual Studio 2013\Projects\FileSearch\FileSearch\bin\Debug\FileSearch.exe
+C:\Users\richard.cole\Documents\Visual Studio 2013\Projects\FileSearch\FileSearch\bin\Debug\FileSearch.pdb
+C:\Users\richard.cole\Documents\Visual Studio 2013\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.csprojResolveAssemblyReference.cache
+C:\Users\richard.cole\Documents\Visual Studio 2013\Projects\FileSearch\FileSearch\obj\Debug\MainWindow.baml
+C:\Users\richard.cole\Documents\Visual Studio 2013\Projects\FileSearch\FileSearch\obj\Debug\MainWindow.g.cs
+C:\Users\richard.cole\Documents\Visual Studio 2013\Projects\FileSearch\FileSearch\obj\Debug\App.g.cs
+C:\Users\richard.cole\Documents\Visual Studio 2013\Projects\FileSearch\FileSearch\obj\Debug\FileSearch_MarkupCompile.cache
+C:\Users\richard.cole\Documents\Visual Studio 2013\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.g.resources
+C:\Users\richard.cole\Documents\Visual Studio 2013\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.Properties.Resources.resources
+C:\Users\richard.cole\Documents\Visual Studio 2013\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.csproj.GenerateResource.Cache
+C:\Users\richard.cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\bin\Debug\FileSearch.exe.config
+C:\Users\richard.cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.exe
+C:\Users\richard.cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.pdb
+C:\Users\richard.cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\bin\Debug\FileSearch.exe
+C:\Users\richard.cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\bin\Debug\FileSearch.pdb
+C:\Users\richard.cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.csprojResolveAssemblyReference.cache
+C:\Users\richard.cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\MainWindow.baml
+C:\Users\richard.cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\MainWindow.g.cs
+C:\Users\richard.cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\App.g.cs
+C:\Users\richard.cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch_MarkupCompile.cache
+C:\Users\richard.cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.g.resources
+C:\Users\richard.cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.Properties.Resources.resources
+C:\Users\richard.cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.csproj.GenerateResource.Cache
+C:\Users\Rick Cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\bin\Debug\FileSearch.exe.config
+C:\Users\Rick Cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.exe
+C:\Users\Rick Cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.pdb
+C:\Users\Rick Cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\bin\Debug\FileSearch.exe
+C:\Users\Rick Cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\bin\Debug\FileSearch.pdb
+C:\Users\Rick Cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\MainWindow.baml
+C:\Users\Rick Cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\MainWindow.g.cs
+C:\Users\Rick Cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\App.g.cs
+C:\Users\Rick Cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch_MarkupCompile.cache
+C:\Users\Rick Cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.g.resources
+C:\Users\Rick Cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.Properties.Resources.resources
+C:\Users\Rick Cole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.csproj.GenerateResource.Cache
+C:\Users\rcole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\bin\Debug\FileSearch.exe.config
+C:\Users\rcole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.exe
+C:\Users\rcole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.pdb
+C:\Users\rcole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\bin\Debug\FileSearch.exe
+C:\Users\rcole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\bin\Debug\FileSearch.pdb
+C:\Users\rcole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.csprojResolveAssemblyReference.cache
+C:\Users\rcole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\MainWindow.baml
+C:\Users\rcole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\MainWindow.g.cs
+C:\Users\rcole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\App.g.cs
+C:\Users\rcole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch_MarkupCompile.cache
+C:\Users\rcole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.g.resources
+C:\Users\rcole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.Properties.Resources.resources
+C:\Users\rcole\Documents\Visual Studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.csproj.GenerateResource.Cache
